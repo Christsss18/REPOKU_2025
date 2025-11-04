@@ -1,2 +1,4 @@
 Ini adalah isi dari file pertama. 
 Ini tembahan dari GItHub Remote
+Ini baris tambahan baru dari branch myBranch1 (lokal).
+Baris dari GitHub ini telah diperbarui oleh branch myBranch
